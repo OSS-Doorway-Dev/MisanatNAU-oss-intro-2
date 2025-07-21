@@ -11,12 +11,14 @@ User Stats:<br>
   ![User Draft Stats](/undefined?)
 
 ⚙️ Current Quest: 
-  - 687e5ff3c9dc7339577cdda0 - 841 issue count
-    - T1 - td 841 issue count [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanatNAU-oss-intro-2/issues/2)]
+  - Q1 - Q1: Understanding OSS Projects and GitHub Basics
+    - T1 - Explore the issue tracker [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanatNAU-oss-intro-2/issues/3)]
 
 ✅ Completed Quests: 
   - Q0 - Q0: Introduction to Open Source
     - ~T1 - Environment Preferences~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanatNAU-oss-intro-2/issues/1)]
+  - 687e5ff3c9dc7339577cdda0 - 841 issue count
+    - ~T1 - td 841 issue count~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanatNAU-oss-intro-2/issues/2)]
 
 Quests Map:
- ![Quest Map](https://raw.githubusercontent.com/caiton1/OSS-Doorway/main/map/687e5ff3c9dc7339577cdda0T1.png)
+ ![Quest Map](https://raw.githubusercontent.com/caiton1/OSS-Doorway/main/map/Q1T1.png)
